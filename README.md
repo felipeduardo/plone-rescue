@@ -72,35 +72,26 @@ Inspired by http://uptodate.frontendrescue.org/
 It's really important that you find your own, unique way to be up to date. Take a look at how these great developers are doing it!
 
 ###Python
-#
-> Please, write here
-> 
-> -- <cite>Your name</cite>
-#
 
+####<cite>Your name</cite>
 > Please, write here
-> 
-> -- <cite>Your name</cite>
-#
 
+
+####<cite>Your name</cite>
 > Please, write here
-> 
-> -- <cite>Your name</cite>
-#
+
+
+####<cite>Your name</cite>
+> Please, write here
+
 
 ###Zope / Plone
-#
-> Please, write here
-> 
-> -- <cite>Your name</cite>
-#
 
+####<cite>Your name</cite>
 > Please, write here
-> 
-> -- <cite>Your name</cite>
-#
 
+####<cite>Your name</cite>
 > Please, write here
-> 
-> -- <cite>Your name</cite>
-#
+
+####<cite>Your name</cite>
+> Please, write here

@@ -34,6 +34,7 @@ Inspired by http://uptodate.frontendrescue.org/
 
 ###Blogs
 
+####Plone
 * [Six Feet Up](http://www.sixfeetup.com/blog/)
 * [Red Turtle](http://blog.redturtle.it/)
 * [Netsight](http://www.netsight.co.uk/blog)
@@ -48,6 +49,11 @@ Inspired by http://uptodate.frontendrescue.org/
 
 ###Weekly News
 
+####Python
+* [Pycoders](http://www.pycoders.com/)
+* [Python Weekly](http://www.pythonweekly.com/)
+
+####Plone
 * [Plone News](https://plone.org/news/newslisting)
 * [Planet Plone](http://planet.plone.org/)
 
@@ -56,13 +62,14 @@ Inspired by http://uptodate.frontendrescue.org/
 
 ###Python
 * [PyCon](https://twitter.com/pycon)
+* [EuroPython](https://twitter.com/europython)
 
 ###Plone
 
 * [PloneConf](https://twitter.com/ploneconf)
 * [World Plone Day](https://twitter.com/worldploneday)
 * [Plone Symphosiun]()
-    * [North America](https://twitter.com/PloneSymp)   
+    * [North America](https://twitter.com/PloneSymp)
     * [South America](https://twitter.com/plonesymposium)
 * [Plone Sprint's]()
 

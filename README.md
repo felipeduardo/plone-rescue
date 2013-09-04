@@ -22,7 +22,7 @@ Inspired by http://uptodate.frontendrescue.org/
 * [David Glick](https://twitter.com/davisagli)
 * [Eric Steele](https://twitter.com/esteele)
 * [Timo Stollenwerk](https://twitter.com/timostollenwerk)
-* [Mikko Ohtomaa](https://twitter.com/moo9000)
+* [Mikko Ohtamaa](https://twitter.com/moo9000)
 * [Érico Andrei](https://twitter.com/ericof)
 * [Martin Aspeli](https://twitter.com/optilude)
 * [Elizabeth Leddy](https://twitter.com/eleddy)

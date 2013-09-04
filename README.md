@@ -5,17 +5,16 @@ How to keep up to date on Python / Zope / Plone.
 Inspired by http://uptodate.frontendrescue.org/
 
 
+
 ##Follow cool people
 
 ###Python
 
 * [Luciano Ramalho](https://twitter.com/davisagli)
 
-
 ###Zope
 
 * ...
-
 
 ###Plone
 
@@ -29,8 +28,8 @@ Inspired by http://uptodate.frontendrescue.org/
 * [Elizabeth Leddy](https://twitter.com/eleddy)
 
 
-##Find the best sources
 
+##Find the best sources
 
 ###Blogs
 
@@ -46,7 +45,6 @@ Inspired by http://uptodate.frontendrescue.org/
 * [Plone Metrics](http://plonemetrics.blogspot.com.br/)
 * [Alex Clark](http://blog.aclark.net/)
 
-
 ###Weekly News
 
 ####Python
@@ -56,6 +54,7 @@ Inspired by http://uptodate.frontendrescue.org/
 ####Plone
 * [Plone News](https://plone.org/news/newslisting)
 * [Planet Plone](http://planet.plone.org/)
+
 
 
 ##Attend conferences
@@ -74,31 +73,29 @@ Inspired by http://uptodate.frontendrescue.org/
 * [Plone Sprint's]()
 
 
+
 ##Get your own sources
 
 It's really important that you find your own, unique way to be up to date. Take a look at how these great developers are doing it!
 
 ###Python
 
-####<cite>Your name</cite>
+######<cite>Your name</cite>
 > Please, write here
 
-
-####<cite>Your name</cite>
+######<cite>Your name</cite>
 > Please, write here
 
-
-####<cite>Your name</cite>
+######<cite>Your name</cite>
 > Please, write here
-
 
 ###Zope / Plone
 
-####<cite>Your name</cite>
+######<cite>Your name</cite>
 > Please, write here
 
-####<cite>Your name</cite>
+######<cite>Your name</cite>
 > Please, write here
 
-####<cite>Your name</cite>
+######<cite>Your name</cite>
 > Please, write here

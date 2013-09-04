@@ -10,7 +10,7 @@ Inspired by http://uptodate.frontendrescue.org/
 
 ###Python
 
-* [Luciano Ramalho](https://twitter.com/davisagli)
+* [Luciano Ramalho](https://twitter.com/ramalhoorg)
 
 ###Zope
 

@@ -5,7 +5,6 @@ How to keep up to date on Python / Zope / Plone.
 Inspired by http://uptodate.frontendrescue.org/
 
 
-
 ##Follow cool people
 
 ###Python
@@ -26,6 +25,7 @@ Inspired by http://uptodate.frontendrescue.org/
 * [Érico Andrei](https://twitter.com/ericof)
 * [Martin Aspeli](https://twitter.com/optilude)
 * [Elizabeth Leddy](https://twitter.com/eleddy)
+* [Tom Lazar](https://twitter.com/tomlazar)
 
 
 

@@ -7,25 +7,26 @@ Inspired by http://uptodate.frontendrescue.org/
 
 ##Follow cool people
 
-###Python
-
-* [Luciano Ramalho](https://twitter.com/ramalhoorg)
-
-###Zope
-
-* ...
-
-###Plone
-
-* [Matt Hamilton](https://twitter.com/HammerToe)
+* [Alex Clark](https://twitter.com/aclark4life)
+* [Alex Limi](https://twitter.com/limi)
+* [André Nogueira](https://twitter.com/agnogueira)
+* [Asko Soukka](https://twitter.com/datakurre)
 * [David Glick](https://twitter.com/davisagli)
-* [Eric Steele](https://twitter.com/esteele)
-* [Timo Stollenwerk](https://twitter.com/timostollenwerk)
-* [Mikko Ohtamaa](https://twitter.com/moo9000)
-* [Érico Andrei](https://twitter.com/ericof)
-* [Martin Aspeli](https://twitter.com/optilude)
+* [Domen Kožar](https://twitter.com/iElectric)
 * [Elizabeth Leddy](https://twitter.com/eleddy)
+* [Eric Steele](https://twitter.com/esteele)
+* [Fabiano Weimar](https://twitter.com/xiru)
+* [Martin Aspeli](https://twitter.com/optilude)
+* [Matt Hamilton](https://twitter.com/HammerToe)
+* [Mikko Ohtamaa](https://twitter.com/moo9000)
+* [Nejc 'zupo' Zupan](https://twitter.com/nzupan)
+* [Paul Roeland](https://twitter.com/polyester)
+* [Rok Garbas](https://twitter.com/garbas)
+* [Steve McMahon](https://twitter.com/shmcmahon)
+* [Timo Stollenwerk](https://twitter.com/timostollenwerk)
 * [Tom Lazar](https://twitter.com/tomlazar)
+* [Érico Andrei](https://twitter.com/ericof)
+* [Davi Lima](https://twitter.com/davilima6)
 
 
 
@@ -33,17 +34,21 @@ Inspired by http://uptodate.frontendrescue.org/
 
 ###Blogs
 
+####Python
+* [Planet Python](http://planet.python.org/)
+
 ####Plone
-* [Six Feet Up](http://www.sixfeetup.com/blog/)
-* [Red Turtle](http://blog.redturtle.it/)
-* [Netsight](http://www.netsight.co.uk/blog)
-* [Starzel-de](http://www.starzel.de/blog/)
-* [Quinta Group](http://talk.quintagroup.com/blogs/quintagroup)
+* [Alex Clark](http://blog.aclark.net/)
+* [CodeSyntax](http://www.codesyntax.com/en/blog)
 * [David Bain's](http://blog.dbain.com/)
 * [Jazkarta](http://blog.jazkarta.com/)
-* [CodeSyntax](http://www.codesyntax.com/en/blog)
+* [Netsight](http://www.netsight.co.uk/blog)
 * [Plone Metrics](http://plonemetrics.blogspot.com.br/)
-* [Alex Clark](http://blog.aclark.net/)
+* [Quinta Group](http://talk.quintagroup.com/blogs/quintagroup)
+* [Red Turtle](http://blog.redturtle.it/)
+* [Six Feet Up](http://www.sixfeetup.com/blog/)
+* [Starzel-de](http://www.starzel.de/blog/)
+* [Simples Consultoria](http://www.starzel.de/blog/)
 
 ###Weekly News
 
@@ -52,16 +57,16 @@ Inspired by http://uptodate.frontendrescue.org/
 * [Python Weekly](http://www.pythonweekly.com/)
 
 ####Plone
-* [Plone News](https://plone.org/news/newslisting)
 * [Planet Plone](http://planet.plone.org/)
+* [Plone News](https://plone.org/news/newslisting)
 
 
 
 ##Attend conferences
 
 ###Python
-* [PyCon](https://twitter.com/pycon)
 * [EuroPython](https://twitter.com/europython)
+* [PyCon](https://twitter.com/pycon)
 
 ###Plone
 
@@ -70,7 +75,7 @@ Inspired by http://uptodate.frontendrescue.org/
 * [Plone Symphosiun]()
     * [North America](https://twitter.com/PloneSymp)
     * [South America](https://twitter.com/plonesymposium)
-* [Plone Sprint's]()
+* [Plone Sprint's](https://plone.org/events/sprints/all_sprints)
 
 
 
@@ -78,24 +83,26 @@ Inspired by http://uptodate.frontendrescue.org/
 
 It's really important that you find your own, unique way to be up to date. Take a look at how these great developers are doing it!
 
-###Python
 
 ######<cite>Your name</cite>
 > Please, write here
 
-######<cite>Your name</cite>
-> Please, write here
 
 ######<cite>Your name</cite>
 > Please, write here
 
-###Zope / Plone
 
 ######<cite>Your name</cite>
 > Please, write here
 
+
 ######<cite>Your name</cite>
 > Please, write here
+
+
+######<cite>Your name</cite>
+> Please, write here
+
 
 ######<cite>Your name</cite>
 > Please, write here

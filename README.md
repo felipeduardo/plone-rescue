@@ -6,18 +6,20 @@ Inspired by http://uptodate.frontendrescue.org/
 
 
 ##Follow cool people
-
 * [Alex Clark](https://twitter.com/aclark4life)
 * [Alex Limi](https://twitter.com/limi)
 * [André Nogueira](https://twitter.com/agnogueira)
 * [Asko Soukka](https://twitter.com/datakurre)
+* [Davi Lima](https://twitter.com/davilima6)
 * [David Glick](https://twitter.com/davisagli)
 * [Domen Kožar](https://twitter.com/iElectric)
 * [Elizabeth Leddy](https://twitter.com/eleddy)
 * [Eric Steele](https://twitter.com/esteele)
 * [Fabiano Weimar](https://twitter.com/xiru)
+* [Giacomo Spettoli](https://twitter.com/giacomospettoli)
 * [Martin Aspeli](https://twitter.com/optilude)
 * [Matt Hamilton](https://twitter.com/HammerToe)
+* [Maurizio Delmonte](https://twitter.com/miziodel)
 * [Mikko Ohtamaa](https://twitter.com/moo9000)
 * [Nejc 'zupo' Zupan](https://twitter.com/nzupan)
 * [Paul Roeland](https://twitter.com/polyester)
@@ -26,7 +28,7 @@ Inspired by http://uptodate.frontendrescue.org/
 * [Timo Stollenwerk](https://twitter.com/timostollenwerk)
 * [Tom Lazar](https://twitter.com/tomlazar)
 * [Érico Andrei](https://twitter.com/ericof)
-* [Davi Lima](https://twitter.com/davilima6)
+* [Matthew Wilkes](https://twitter.com/matthewwilkes)
 
 
 
@@ -43,12 +45,13 @@ Inspired by http://uptodate.frontendrescue.org/
 * [David Bain's](http://blog.dbain.com/)
 * [Jazkarta](http://blog.jazkarta.com/)
 * [Netsight](http://www.netsight.co.uk/blog)
+* [Niteoweb](http://www.niteoweb.com/blog)
 * [Plone Metrics](http://plonemetrics.blogspot.com.br/)
 * [Quinta Group](http://talk.quintagroup.com/blogs/quintagroup)
 * [Red Turtle](http://blog.redturtle.it/)
+* [Simples Consultoria](http://www.simplesconsultoria.com.br/blog)
 * [Six Feet Up](http://www.sixfeetup.com/blog/)
 * [Starzel-de](http://www.starzel.de/blog/)
-* [Simples Consultoria](http://www.starzel.de/blog/)
 
 ###Weekly News
 

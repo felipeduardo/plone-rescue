@@ -31,6 +31,8 @@ Inspired by http://uptodate.frontendrescue.org/
 * [Timo Stollenwerk](https://twitter.com/timostollenwerk)
 * [Tom Lazar](https://twitter.com/tomlazar)
 * [Érico Andrei](https://twitter.com/ericof)
+* [Jean Ferri](https://twitter.com/JeanFerri)
+
 
 
 ##Find the best sources
@@ -48,14 +50,14 @@ Inspired by http://uptodate.frontendrescue.org/
 * [Jazkarta](http://blog.jazkarta.com/)
 * [Netsight](http://www.netsight.co.uk/blog)
 * [Niteoweb](http://www.niteoweb.com/blog)
+* [Planet Plone](http://planet.plone.org/)
 * [Plone Metrics](http://plonemetrics.blogspot.com.br/)
 * [Quinta Group](http://talk.quintagroup.com/blogs/quintagroup)
 * [Red Turtle](http://blog.redturtle.it/)
+* [Reinout van Rees](http://reinout.vanrees.org/weblog/)
 * [Simples Consultoria](http://www.simplesconsultoria.com.br/blog)
 * [Six Feet Up](http://www.sixfeetup.com/blog/)
 * [Starzel-de](http://www.starzel.de/blog/)
-* [Reinout van Rees](http://reinout.vanrees.org/weblog/)
-* [Planet Plone](http://planet.plone.org/)
 
 ###Weekly News
 

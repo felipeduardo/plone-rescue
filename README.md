@@ -43,7 +43,7 @@ Inspired by http://uptodate.frontendrescue.org/
 * [Planet Python](http://planet.python.org/)
 
 ####Plone
-* [Alex Clark](http://blog.aclark.net/)
+* [Alex Clark Blog](http://blog.aclark.net/)
 * [CodeSyntax](http://www.codesyntax.com/en/blog)
 * [David Bain's](http://blog.dbain.com/)
 * [Greenfinity](http://greenfinity.hu/en/blog/)
@@ -58,6 +58,8 @@ Inspired by http://uptodate.frontendrescue.org/
 * [Simples Consultoria](http://www.simplesconsultoria.com.br/blog)
 * [Six Feet Up](http://www.sixfeetup.com/blog/)
 * [Starzel-de](http://www.starzel.de/blog/)
+* [Asko Soukka Blog](http://datakurre.pandala.org/)
+* [Domen Kožar](https://www.domenkozar.com/)
 
 ###Weekly News
 

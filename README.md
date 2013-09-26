@@ -45,6 +45,7 @@ Inspired by http://uptodate.frontendrescue.org/
 * [Alex Clark](http://blog.aclark.net/)
 * [CodeSyntax](http://www.codesyntax.com/en/blog)
 * [David Bain's](http://blog.dbain.com/)
+* [Greenfinity](http://greenfinity.hu/en/blog/)
 * [Jazkarta](http://blog.jazkarta.com/)
 * [Netsight](http://www.netsight.co.uk/blog)
 * [Niteoweb](http://www.niteoweb.com/blog)

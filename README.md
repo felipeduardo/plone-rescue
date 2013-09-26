@@ -17,8 +17,10 @@ Inspired by http://uptodate.frontendrescue.org/
 * [Eric Steele](https://twitter.com/esteele)
 * [Fabiano Weimar](https://twitter.com/xiru)
 * [Giacomo Spettoli](https://twitter.com/giacomospettoli)
+* [Martijn Pieters](https://twitter.com/zopatista)
 * [Martin Aspeli](https://twitter.com/optilude)
 * [Matt Hamilton](https://twitter.com/HammerToe)
+* [Matthew Wilkes](https://twitter.com/matthewwilkes)
 * [Maurizio Delmonte](https://twitter.com/miziodel)
 * [Mikko Ohtamaa](https://twitter.com/moo9000)
 * [Nejc 'zupo' Zupan](https://twitter.com/nzupan)
@@ -28,7 +30,6 @@ Inspired by http://uptodate.frontendrescue.org/
 * [Timo Stollenwerk](https://twitter.com/timostollenwerk)
 * [Tom Lazar](https://twitter.com/tomlazar)
 * [Érico Andrei](https://twitter.com/ericof)
-* [Matthew Wilkes](https://twitter.com/matthewwilkes)
 
 
 

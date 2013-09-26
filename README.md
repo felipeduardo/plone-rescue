@@ -39,18 +39,23 @@ Inspired by http://uptodate.frontendrescue.org/
 
 ###Blogs
 
-####Python
+####Aggregators
 * [Planet Python](http://planet.python.org/)
+* [Planet Plone](http://planet.plone.org/)
 
-####Plone
+#####Python
+
+
+#####Plone
 * [Alex Clark Blog](http://blog.aclark.net/)
+* [Asko Soukka Blog](http://datakurre.pandala.org/)
 * [CodeSyntax](http://www.codesyntax.com/en/blog)
 * [David Bain's](http://blog.dbain.com/)
+* [Domen Kožar](https://www.domenkozar.com/)
 * [Greenfinity](http://greenfinity.hu/en/blog/)
 * [Jazkarta](http://blog.jazkarta.com/)
 * [Netsight](http://www.netsight.co.uk/blog)
 * [Niteoweb](http://www.niteoweb.com/blog)
-* [Planet Plone](http://planet.plone.org/)
 * [Plone Metrics](http://plonemetrics.blogspot.com.br/)
 * [Quinta Group](http://talk.quintagroup.com/blogs/quintagroup)
 * [Red Turtle](http://blog.redturtle.it/)
@@ -58,8 +63,6 @@ Inspired by http://uptodate.frontendrescue.org/
 * [Simples Consultoria](http://www.simplesconsultoria.com.br/blog)
 * [Six Feet Up](http://www.sixfeetup.com/blog/)
 * [Starzel-de](http://www.starzel.de/blog/)
-* [Asko Soukka Blog](http://datakurre.pandala.org/)
-* [Domen Kožar](https://www.domenkozar.com/)
 
 ###Weekly News
 

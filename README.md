@@ -76,7 +76,7 @@ Inspired by http://uptodate.frontendrescue.org/
 
 * [PloneConf](https://twitter.com/ploneconf)
 * [World Plone Day](https://twitter.com/worldploneday)
-* [Plone Symphosiun]()
+* [Plone Symphosiun](http://plone.org/events/regional)
     * [North America](https://twitter.com/PloneSymp)
     * [South America](https://twitter.com/plonesymposium)
 * [Plone Sprint's](https://plone.org/events/sprints/all_sprints)

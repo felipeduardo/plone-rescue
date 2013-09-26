@@ -18,6 +18,7 @@ Inspired by http://uptodate.frontendrescue.org/
 * [Fabiano Weimar](https://twitter.com/xiru)
 * [Florian Schulze](https://twitter.com/fschulze)
 * [Giacomo Spettoli](https://twitter.com/giacomospettoli)
+* [Jean Ferri](https://twitter.com/JeanFerri)
 * [Martijn Pieters](https://twitter.com/zopatista)
 * [Martin Aspeli](https://twitter.com/optilude)
 * [Matt Hamilton](https://twitter.com/HammerToe)
@@ -26,13 +27,12 @@ Inspired by http://uptodate.frontendrescue.org/
 * [Mikko Ohtamaa](https://twitter.com/moo9000)
 * [Nejc 'zupo' Zupan](https://twitter.com/nzupan)
 * [Paul Roeland](https://twitter.com/polyester)
+* [Reinout van Rees](https://twitter.com/reinoutvanrees)
 * [Rok Garbas](https://twitter.com/garbas)
 * [Steve McMahon](https://twitter.com/shmcmahon)
 * [Timo Stollenwerk](https://twitter.com/timostollenwerk)
 * [Tom Lazar](https://twitter.com/tomlazar)
 * [Érico Andrei](https://twitter.com/ericof)
-* [Jean Ferri](https://twitter.com/JeanFerri)
-
 
 
 ##Find the best sources

@@ -56,6 +56,7 @@ Inspired by http://uptodate.frontendrescue.org/
 * [Jazkarta](http://blog.jazkarta.com/)
 * [Netsight](http://www.netsight.co.uk/blog)
 * [Niteoweb](http://www.niteoweb.com/blog)
+* [Open Source Hacker](http://opensourcehacker.com/)
 * [Plone Metrics](http://plonemetrics.blogspot.com.br/)
 * [Quinta Group](http://talk.quintagroup.com/blogs/quintagroup)
 * [Red Turtle](http://blog.redturtle.it/)

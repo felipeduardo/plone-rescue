@@ -33,7 +33,6 @@ Inspired by http://uptodate.frontendrescue.org/
 * [Érico Andrei](https://twitter.com/ericof)
 
 
-
 ##Find the best sources
 
 ###Blogs
@@ -55,6 +54,8 @@ Inspired by http://uptodate.frontendrescue.org/
 * [Simples Consultoria](http://www.simplesconsultoria.com.br/blog)
 * [Six Feet Up](http://www.sixfeetup.com/blog/)
 * [Starzel-de](http://www.starzel.de/blog/)
+* [Reinout van Rees](http://reinout.vanrees.org/weblog/)
+* [Planet Plone](http://planet.plone.org/)
 
 ###Weekly News
 
@@ -63,9 +64,7 @@ Inspired by http://uptodate.frontendrescue.org/
 * [Python Weekly](http://www.pythonweekly.com/)
 
 ####Plone
-* [Planet Plone](http://planet.plone.org/)
 * [Plone News](https://plone.org/news/newslisting)
-
 
 
 ##Attend conferences
@@ -75,14 +74,12 @@ Inspired by http://uptodate.frontendrescue.org/
 * [PyCon](https://twitter.com/pycon)
 
 ###Plone
-
 * [PloneConf](https://twitter.com/ploneconf)
 * [World Plone Day](https://twitter.com/worldploneday)
 * [Plone Symphosiun](http://plone.org/events/regional)
     * [North America](https://twitter.com/PloneSymp)
     * [South America](https://twitter.com/plonesymposium)
 * [Plone Sprint's](https://plone.org/events/sprints/all_sprints)
-
 
 
 ##Get your own sources

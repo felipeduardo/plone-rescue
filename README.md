@@ -16,6 +16,7 @@ Inspired by http://uptodate.frontendrescue.org/
 * [Elizabeth Leddy](https://twitter.com/eleddy)
 * [Eric Steele](https://twitter.com/esteele)
 * [Fabiano Weimar](https://twitter.com/xiru)
+* [Florian Schulze](https://twitter.com/fschulze)
 * [Giacomo Spettoli](https://twitter.com/giacomospettoli)
 * [Martijn Pieters](https://twitter.com/zopatista)
 * [Martin Aspeli](https://twitter.com/optilude)
@@ -86,22 +87,6 @@ Inspired by http://uptodate.frontendrescue.org/
 ##Get your own sources
 
 It's really important that you find your own, unique way to be up to date. Take a look at how these great developers are doing it!
-
-
-######<cite>Your name</cite>
-> Please, write here
-
-
-######<cite>Your name</cite>
-> Please, write here
-
-
-######<cite>Your name</cite>
-> Please, write here
-
-
-######<cite>Your name</cite>
-> Please, write here
 
 
 ######<cite>Your name</cite>

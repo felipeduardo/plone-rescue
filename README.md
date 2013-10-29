@@ -10,6 +10,7 @@ Inspired by http://uptodate.frontendrescue.org/
 * [Alex Limi](https://twitter.com/limi)
 * [André Nogueira](https://twitter.com/agnogueira)
 * [Asko Soukka](https://twitter.com/datakurre)
+* [Cris Ewing](https://twitter.com/crisewing)
 * [Davi Lima](https://twitter.com/davilima6)
 * [David Glick](https://twitter.com/davisagli)
 * [Domen Kožar](https://twitter.com/iElectric)

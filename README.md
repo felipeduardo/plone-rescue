@@ -63,9 +63,11 @@ Inspired by http://uptodate.frontendrescue.org/
 * [Red Turtle](http://blog.redturtle.it/)
 * [Reinout van Rees](http://reinout.vanrees.org/weblog/)
 * [Rok Garbas Blog](http://garbas.si/blog)
+* [Secret Weblog](http://blog.startifact.com/)
 * [Simples Consultoria](http://www.simplesconsultoria.com.br/blog)
 * [Six Feet Up](http://www.sixfeetup.com/blog/)
 * [Starzel-de](http://www.starzel.de/blog/)
+
 
 ###Weekly News
 
